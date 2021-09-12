@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Tinykernel Web",
+  "name": "The official website for the TinyKernel project",
   "icons": [
     {
       "src": "favicon.ico",
